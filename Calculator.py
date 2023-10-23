@@ -21,7 +21,7 @@ while y == "y":
         print(milt)
         print("Хотите поробовать другое действие?")
         break
-    elif answer == "умножение":
+    elif answer == "деление":
         nmn = a / b
         print(nmn)
         print("Хотите поробовать другое действие?")
